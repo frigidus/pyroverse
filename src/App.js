@@ -5,17 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>welcome to pyroverse.net</h1>
-        <p>you found my dark corner on the internet! i dont know what to put on here tho</p>
-        <h1>games</h1>
-        <p>heres some games i like that you can play</p>
-        <a href="https://basket-random.frigidus5.repl.co/">basket random</a><br />
-        <a href="https://soccer-random.frigidus5.repl.co/">soccer random</a>
-        <h1>minecraft mods</h1>
-        <p>i just got into minecraft so heres some terrible mods i made</p>
-        <a href="https://legacy.curseforge.com/minecraft/mc-mods/rainbow-gem">rainbow ore (i know this is the most copied mod ever)</a>
-        <h1>contact</h1>
-        <p>email: pyroverse.net@gmail.com because im not getting custom email for 30 bucks</p>
+        <h1>sizzlrs school</h1>
+        <p>welcome to sizzlrs school! just hang out here i guess</p>
+        <h1>chatbox</h1>
+        <p>chat about whatever yall are doing</p>
+        <iframe src="https://www3.cbox.ws/box/?boxid=3531955&boxtag=w8M9P7" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
       </header>
     </div>
   );
